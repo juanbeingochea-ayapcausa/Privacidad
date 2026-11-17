@@ -1,67 +1,232 @@
 Política de Privacidad de NotaPro
 
-Última actualización: 2026
 
-En NotaPro (en adelante, "la Aplicación"), desarrollada por DevStudioApp, nos comprometemos a proteger su privacidad. Esta Política de Privacidad explica cómo se gestiona su información cuando utiliza nuestra aplicación móvil.
+Privacidad y Términos
+Acuerdo Legal y de Privacidad de Grado Pro
 
-1. Almacenamiento de Datos
-NotaPro almacena todas sus notas, listas, dibujos y configuraciones de forma local en su propio dispositivo mediante una base de datos segura (Room Database). No recopilamos ni almacenamos sus notas personales en servidores externos; su contenido es completamente privado y pertenece únicamente a usted.
+Este documento constituye el acuerdo legal entre usted (el Usuario) y DevStudioApps, desarrollador de NotaPro, respecto al uso de la aplicación en su dispositivo móvil. Lea atentamente antes de continuar.
 
-2. Publicidad (Google AdMob)
-La Aplicación utiliza Google AdMob para mostrar anuncios con el fin de mantener el desarrollo de la app. Google AdMob puede recopilar identificadores de dispositivo para mostrar anuncios adaptados. Puede consultar las políticas de privacidad de Google en: https://policies.google.com/technologies/ads
+He leído y acepto la Política de Privacidad y los Términos de Uso detallados arriba.
 
-3. Permisos de la Aplicación
-- Cámara y Almacenamiento: Se utilizan exclusivamente cuando usted decide adjuntar imágenes, escanear texto con OCR o añadir archivos a sus notas.
-- Biometría / Seguridad: El bloqueo por huella dactilar o contraseña maestra se procesa de forma local en su dispositivo para proteger su privacidad.
+1. Política de Privacidad y Datos
 
-4. Cambios en esta Política
-Podemos actualizar nuestra Política de Privacidad ocasionalmente. Le recomendamos revisarla periódicamente.
+NotaPro almacena principalmente en su dispositivo el contenido que usted crea, como notas y configuraciones.
 
-5. Contacto
-Si tiene alguna pregunta o sugerencia sobre esta Política de Privacidad, puede contactarnos a través del correo electrónico: contacto.developmenstudio@gmail.com
+• Publicidad: NotaPro utiliza Google Mobile Ads (AdMob). Este servicio puede recopilar y compartir identificadores publicitarios, dirección IP, información técnica del dispositivo, interacciones con anuncios y datos de diagnóstico para mostrar y medir anuncios, prevenir fraude y, cuando la configuración y el consentimiento aplicables lo permitan, personalizarlos. El tratamiento se rige también por las políticas de Google y sus socios.
+• Funciones opcionales: al usar reconocimiento de voz, escaneo, recordatorios de ubicación o compartir con dispositivos cercanos, la información necesaria puede procesarse o transmitirse mediante los servicios correspondientes.
+• Menores: el uso por menores debe contar con la supervisión de sus padres o tutores.
+
+2. Seguridad y Protección de Datos
+
+Usted es el responsable último de la seguridad de sus claves.
+
+• Blindaje Pro: El cifrado utilizado (AES) está diseñado para dificultar al máximo el acceso no autorizado a su información mediante capas de protección avanzadas.
+• Advertencia de Clave Maestra: Por razones de seguridad y privacidad del diseño, no existen métodos de recuperación para una Clave Maestra olvidada. Si pierde su clave, el acceso a sus datos cifrados se verá severamente comprometido.
+• Autenticación del Dispositivo: Las funciones de huella y rostro dependen del hardware de su teléfono. Si el sensor falla, se utilizarán los métodos de respaldo del sistema operativo.
+
+3. Aviso Crítico de Desinstalación
+
+⚠️ IMPORTANTE: Si usted decide desinstalar NotaPro de su teléfono, el sistema operativo borrará todos los datos locales de forma inmediata.
+
+• Acción Sugerida: Se recomienda encarecidamente realizar una “Copia de Seguridad Local” (.db) o sincronizar con Google Drive ANTES de proceder con la eliminación de la aplicación.
+• Responsabilidad: El Usuario asume toda la responsabilidad sobre la preservación de sus notas mediante las herramientas de respaldo proporcionadas.
+
+4. Términos y Condiciones de Uso
+
+Al utilizar este software, usted acepta:
+
+• Uso Permitido: No utilizar la aplicación para almacenar material que infrinja leyes de propiedad intelectual o contenido de carácter delictivo.
+• Limitación de Responsabilidad: NotaPro no se hace responsable por pérdida de datos derivados de fallos del hardware, errores del sistema operativo o el uso incorrecto de las funciones de seguridad.
+• Modificaciones: Nos reservamos el derecho de actualizar estos términos para reflejar cambios en la monetización, seguridad o políticas de la tienda.
+
+5. Permisos y Confianza
+
+La aplicación solicita permisos para las funciones que usted decide utilizar. El acceso a un permiso no significa por sí solo que todos los datos se transmitan fuera del dispositivo.
+
+• Cámara: para escanear documentos y adjuntar imágenes.
+• Micrófono: para grabar notas de voz o utilizar reconocimiento de voz; el servicio de reconocimiento puede procesar audio según las políticas de su proveedor.
+• Ubicación: para recordatorios opcionales vinculados a lugares.
+• Dispositivos cercanos: para compartir notas con otro dispositivo cuando usted inicia la acción.
+• Publicidad y servicios externos: AdMob y otros servicios pueden procesar los datos necesarios conforme a sus propias políticas. El contenido de las notas se almacena principalmente en el dispositivo. La autenticación biométrica la gestiona Android; NotaPro no recibe las plantillas biométricas del sistema.
+
+6. Contacto y soporte
+
+Aplicación: NotaPro. Desarrollador: DevStudioApps. Para consultas sobre privacidad o soporte al cliente, escriba a: contacto.developmenstudio@gmail.com
+
+NotaPro Premium Software
+Seguridad • Privacidad • Productividad
+Última revisión: Septiembre 2026
 
 
-NotaPro Privacy Policy
 
-Last updated: 2026
+Privacy and Terms
+Legal and Privacy Agreement
 
-At NotaPro (hereinafter, "the Application"), developed by DevStudioApp, we are committed to protecting your privacy. This Privacy Policy explains how your information is handled when you use our mobile application.
+This document constitutes the legal agreement between you (the User) and DevStudioApps, the developer of NotaPro, regarding use of the app on your mobile device. Please read carefully before continuing.
 
-1. Data Storage
-NotaPro stores all your notes, lists, drawings, and settings locally on your own device using a secure database (Room Database). We do not collect or store your personal notes on external servers; your content is completely private and belongs solely to you.
+I have read and accept the Privacy Policy and Terms of Use detailed above.
 
-2. Advertising (Google AdMob)
-The Application uses Google AdMob to display ads in order to support the app's development. Google AdMob may collect device identifiers to serve tailored ads. You can review Google's privacy policy at: https://policies.google.com/technologies/ads
+1. Privacy and Data Policy
 
-3. App Permissions
-- Camera and Storage: Used exclusively when you choose to attach images, scan text with OCR, or add files to your notes.
-- Biometrics / Security: Fingerprint lock or master password authentication is processed locally on your device to protect your privacy.
+NotaPro stores the content you create, such as notes and settings, primarily on your device.
 
-4. Changes to This Policy
-We may update our Privacy Policy from time to time. We encourage you to review it periodically.
+• Advertising: NotaPro uses Google Mobile Ads (AdMob). This service may collect and share advertising identifiers, IP address, technical device information, ad interactions, and diagnostic data to serve and measure ads, prevent fraud, and, where permitted by applicable settings and consent, personalize ads. Processing is also subject to the policies of Google and its partners.
+• Optional features: when you use speech recognition, scanning, location reminders, or sharing with nearby devices, the information needed for that feature may be processed or transmitted by the relevant services.
+• Minors: minors should use the app under the supervision of a parent or guardian.
 
-5. Contact Us
-If you have any questions or suggestions about this Privacy Policy, you can contact us via email at: contacto.developmenstudio@gmail.com
+2. Security and Data Protection
 
-Política de Privacidade do NotaPro
+You are ultimately responsible for the security of your keys.
 
-Última atualização: 2026
+• Pro Shield: The encryption used (AES) is designed to make unauthorized access to your information as difficult as possible through advanced protection layers.
+• Master Key Warning: For security and design privacy reasons, there are no recovery methods for a forgotten Master Key. If you lose your key, access to your encrypted data will be severely compromised.
+• Device Authentication: Fingerprint and face functions depend on your phone's hardware. If the sensor fails, the operating system's backup methods will be used.
 
-No NotaPro (doravante denominado "o Aplicativo"), desenvolvido por DevStudioApp, estamos comprometidos em proteger sua privacidade. Esta Política de Privacidade explica como suas informações são tratadas quando você usa nosso aplicativo móvel.
+3. Critical Uninstallation Notice
 
-1. Armazenamento de Dados
-O NotaPro armazena todas as suas notas, listas, desenhos e configurações localmente no seu próprio dispositivo usando um banco de dados seguro (Room Database). Não coletamos nem armazenamos suas notas pessoais em servidores externos; seu conteúdo é completamente privado e pertence exclusivamente a você.
+⚠️ IMPORTANT: If you decide to uninstall NotaPro from your phone, the operating system will delete all local data immediately.
 
-2. Publicidade (Google AdMob)
-O Aplicativo utiliza o Google AdMob para exibir anúncios com o objetivo de apoiar o desenvolvimento do app. O Google AdMob pode coletar identificadores de dispositivo para exibir anúncios direcionados. Você pode consultar a política de privacidade do Google em: https://policies.google.com/technologies/ads
+• Suggested Action: It is strongly recommended to perform a “Local Backup” (.db) or sync with Google Drive BEFORE proceeding with the removal of the application.
+• Responsibility: The User assumes all responsibility for the preservation of their notes through the backup tools provided.
 
-3. Permissões do Aplicativo
-- Câmera e Armazenamento: Utilizados exclusivamente quando você decide anexar imagens, digitalizar texto com OCR ou adicionar arquivos às suas notas.
-- Biometria / Segurança: O bloqueio por impressão digital ou senha mestre é processado localmente no seu dispositivo para proteger sua privacidade.
+4. Terms and Conditions of Use
 
-4. Alterações nesta Política
-Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos que você a revise regularmente.
+By using this software, you accept:
 
-5. Contato
-Se você tiver alguma dúvida ou sugestão sobre esta Política de Privacidade, pode entrar em contato conosco pelo e-mail: contacto.developmenstudio@gmail.com
+• Permitted Use: Do not use the application to store material that infringes intellectual property laws or criminal content.
+• Limitation of Liability: NotaPro is not responsible for data loss derived from hardware failures, operating system errors or the incorrect use of security functions.
+• Modifications: We reserve the right to update these terms to reflect changes in monetization, security or store policies.
+
+5. Permissions and Trust
+
+The app requests permissions for features you choose to use. Granting a permission does not by itself mean that all data is transmitted off your device.
+
+• Camera: to scan documents and attach images.
+• Microphone: to record voice notes or use speech recognition; the recognition service may process audio under its provider’s policies.
+• Location: for optional location-based reminders.
+• Nearby devices: to share notes with another device when you initiate the action.
+• Advertising and external services: AdMob and other services may process the data needed for their functions under their own policies. Note content is stored primarily on your device. Android handles biometric authentication; NotaPro does not receive the system’s biometric templates.
+
+6. Contact and support
+
+App: NotaPro. Developer: DevStudioApps. For privacy questions or customer support, email: contacto.developmenstudio@gmail.com
+
+NotaPro Premium Software
+Security • Privacy • Productivity
+Last review: September 2026
+
+
+
+Privacidade e Termos
+Acordo Legal e de Privacidade de Nível Pro
+
+Este documento constitui o acordo legal entre você (o Usuário) e DevStudioApps, desenvolvedor do NotaPro, referente ao uso do aplicativo em seu dispositivo móvel. Leia atentamente antes de continuar.
+
+Li e aceito a Política de Privacidade e os Termos de Uso detalhados acima.
+
+1. Política de Privacidade e Dados
+
+O NotaPro armazena principalmente no seu dispositivo o conteúdo que você cria, como notas e configurações.
+
+• Publicidade: o NotaPro utiliza o Google Mobile Ads (AdMob). Esse serviço pode coletar e compartilhar identificadores de publicidade, endereço IP, informações técnicas do dispositivo, interações com anúncios e dados de diagnóstico para exibir e medir anúncios, prevenir fraudes e, quando permitido pelas configurações e pelo consentimento aplicáveis, personalizar anúncios. O tratamento também está sujeito às políticas do Google e de seus parceiros.
+• Recursos opcionais: ao usar reconhecimento de voz, digitalização, lembretes de localização ou compartilhamento com dispositivos próximos, as informações necessárias podem ser processadas ou transmitidas pelos serviços correspondentes.
+• Menores: o uso por menores deve ser supervisionado por seus pais ou responsáveis.
+
+2. Segurança e Proteção de Dados
+
+Você é o responsável final pela segurança de suas chaves.
+
+• Blindagem Pro: A criptografia utilizada (AES) foi projetada para dificultar ao máximo o acesso não autorizado à sua informação através de camadas de proteção avançadas.
+• Aviso de Chave Mestra: Por razões de segurança e privacidade do design, não existem métodos de recuperação para uma Chave Mestra esquecida. Se você perder sua chave, o acesso aos seus dados criptografados será severamente comprometido.
+• Autenticação do Dispositivo: As funções de digital e rosto dependem do hardware do seu telefone. Se o sensor falhar, serão utilizados os métodos de backup do sistema operacional.
+
+3. Aviso Crítico de Desinstalação
+
+⚠️ IMPORTANTE: Se você decidir desinstalar o NotaPro do seu telefone, o sistema operacional apagará todos os dados locais imediatamente.
+
+• Ação Sugerida: Recomenda-se fortemente realizar um “Backup Local” (.db) ou sincronizar com o Google Drive ANTES de prosseguir com a remoção do aplicativo.
+• Responsabilidade: O Usuário assume toda a responsabilidade pela preservação de suas notas através das ferramentas de backup fornecidas.
+
+4. Termos e Condições de Uso
+
+Ao utilizar este software, você aceita:
+
+• Uso Permitido: Não utilizar o aplicativo para armazenar material que infrinja leis de propriedade intelectual ou conteúdo de caráter criminoso.
+• Limitação de Responsabilidade: NotaPro não se responsabiliza por perda de dados derivados de falhas de hardware, erros do sistema operacional ou uso incorreto das funções de segurança.
+• Modificações: Reservamo-nos o direito de atualizar estes termos para refletir mudanças na monetização, segurança ou políticas da loja.
+
+5. Permissões e Confiança
+
+O aplicativo solicita permissões para os recursos que você decide usar. Conceder uma permissão não significa, por si só, que todos os dados serão transmitidos para fora do dispositivo.
+
+• Câmera: para digitalizar documentos e anexar imagens.
+• Microfone: para gravar notas de voz ou usar reconhecimento de voz; o serviço de reconhecimento pode processar áudio conforme as políticas do fornecedor.
+• Localização: para lembretes opcionais vinculados a locais.
+• Dispositivos próximos: para compartilhar notas com outro dispositivo quando você iniciar a ação.
+• Publicidade e serviços externos: o AdMob e outros serviços podem processar os dados necessários às suas funções conforme suas próprias políticas. O conteúdo das notas é armazenado principalmente no dispositivo. A autenticação biométrica é gerenciada pelo Android; o NotaPro não recebe os modelos biométricos do sistema.
+
+6. Contato e suporte
+
+Aplicativo: NotaPro. Desenvolvedor: DevStudioApps. Para dúvidas sobre privacidade ou suporte ao cliente, escreva para: contacto.developmenstudio@gmail.com
+
+NotaPro Premium Software
+Segurança • Privacidade • Produtividade
+Última revisão: Setembro 2026
+
+
+隐私与条款
+专业级法律与隐私协议
+
+本文件构成您（用户）与 DevStudioApps（NotaPro 的开发者）之间关于在移动设备上使用 NotaPro 应用的法律协议。请在继续使用前仔细阅读。
+
+我已阅读并同意上文所述的隐私政策和使用条款。
+
+1. 隐私与数据政策
+
+NotaPro 主要在您的设备上存储您创建的内容，例如笔记和设置。
+
+• 广告：NotaPro 使用 Google Mobile Ads（AdMob）。该服务可能会收集和共享广告标识符、IP 地址、设备技术信息、广告互动数据和诊断数据，用于展示和衡量广告、防止欺诈，并在适用设置和用户同意允许时个性化广告。相关处理也受 Google 及其合作伙伴的政策约束。
+• 可选功能：当您使用语音识别、文档扫描、位置提醒或与附近设备分享功能时，相关服务可能会处理或传输实现该功能所需的信息。
+• 未成年人：未成年人应在父母或监护人的监督下使用本应用。
+
+2. 数据安全与保护
+
+您最终负责保护自己的密钥。
+
+• 专业级保护：本应用使用 AES 加密，旨在通过多层高级保护措施尽可能防止未经授权访问您的信息。
+• 主密钥警告：出于设计上的安全和隐私考虑，忘记主密钥后没有恢复方法。如果丢失密钥，您将严重受限于访问已加密的数据。
+• 设备身份验证：指纹和面部识别功能取决于手机硬件。如果传感器出现故障，将使用操作系统提供的备用验证方式。
+
+3. 卸载重要提示
+
+⚠️ 重要提示：如果您决定从手机中卸载 NotaPro，操作系统将立即删除所有本地数据。
+
+• 建议操作：强烈建议您在删除应用前，先执行“本地备份”（.db）或与 Google Drive 同步。
+• 用户责任：用户须对使用所提供的备份工具保存笔记承担全部责任。
+
+4. 使用条款与条件
+
+使用本软件即表示您同意：
+
+• 允许的使用方式：不得使用本应用存储侵犯知识产权的材料或犯罪性质的内容。
+• 责任限制：对于因硬件故障、操作系统错误或不当使用安全功能而导致的数据丢失，NotaPro 不承担责任。
+• 修改：我们保留更新本条款的权利，以反映商业化、安全性或应用商店政策的变化。
+
+5. 权限与信任
+
+应用会为您选择使用的功能请求相应权限。授予权限本身并不表示所有数据都会传输到设备之外。
+
+• 相机：用于扫描文档和添加图片。
+• 麦克风：用于录制语音笔记或使用语音识别；语音识别服务可能会按照其服务提供方的政策处理音频。
+• 位置信息：用于可选的地点提醒。
+• 附近设备：当您主动发起操作时，用于与其他设备分享笔记。
+• 广告和外部服务：AdMob 及其他服务可能会按照各自的政策处理其功能所需的数据。笔记内容主要存储在您的设备上。生物识别由 Android 管理；NotaPro 不会收到系统的生物识别模板。
+
+6. 联系与客户支持
+
+应用名称：NotaPro。开发者：DevStudioApps。如有隐私问题或需要客户支持，请发送邮件至：contacto.developmenstudio@gmail.com
+
+NotaPro 专业版软件
+安全 • 隐私 • 生产力
+最后审阅：2026年9月 
 
